@@ -4,7 +4,7 @@ import time
 from load_model import Chainer
 import textdistance
 import re
-
+#nora
 # Fungsi untuk membersihkan dan menormalisasi teks
 def normalize_text(text):
     text = text.lower()  # Ubah ke huruf kecil
